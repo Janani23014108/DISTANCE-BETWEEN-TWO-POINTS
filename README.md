@@ -1,18 +1,33 @@
 # DISTANCE-BETWEEN-TWO-POINTS
 Name:J.JANANI
+
 Register no:212223230085
+
 Department:B.Tech AIDS
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: 
+### Step 1:
+Using import math function,do the calculations
 ### Step 2: 
+Take the two coordinates as l1 and l2
+
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula 
+
+![formula](/formula.JPG)
 ### Step 4: 
+using the print function, display the distance between the two points.
 ### Step 5: 
+End the program.
+
+
 ### PROGRAM:
 ```
+## DISTANCE-BETWEEN-TWO-POINTS
+## Developed by:J.JANANI
+## Register No:212223230085
+
 import math
 
 def calculate_distance(point1, point2):
